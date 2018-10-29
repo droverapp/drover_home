@@ -4,7 +4,7 @@
  */
 
 // an email address that will be in the From field of the email.
-$from = 'do-not-reply@yourwebsite.com';
+$from = 'hello@droverapp.com';
 
 // an email address that will receive the email with the output of the form
 $sendTo = 'hello@droverapp.com';

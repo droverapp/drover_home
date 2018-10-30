@@ -2389,6 +2389,9 @@ padding: 100px 10px 10px 10px;
   .homepage section h3 {
     margin-top: 100px;
   }
+  footer .logo {
+  width: 20%;
+  }
 }
 @media (max-width: 1199px) {
   
@@ -2433,6 +2436,9 @@ padding: 100px 10px 10px 10px;
   }
   .homepage1 .call-to-action {
     margin-top: -50px;
+  }
+  footer .logo {
+  width: 20%;
   }
 }
 @media (max-width: 1090px) {
@@ -2485,6 +2491,9 @@ padding: 100px 10px 10px 10px;
   }
   .homepage #next-box-countdown {
     margin-left: 8%;
+  }
+  footer .logo {
+  width: 20%;
   }
 }
 @media (max-width: 991px) {
@@ -2683,6 +2692,9 @@ padding: 100px 10px 10px 10px;
     box-shadow: none;
     opacity: 1;
   }
+  footer .logo {
+  width: 20%;
+  }
 }
 @media (max-width: 768px) { 
   .homepage2 section.call-to-action h3 {
@@ -2816,6 +2828,9 @@ padding: 100px 10px 10px 10px;
   #accordion {
     margin-bottom: 70px;
   }
+  footer .logo {
+  width: 20%;
+  }
 }
 @media (max-width: 680px) {  
   .homepage1 header::after{
@@ -2826,6 +2841,9 @@ padding: 100px 10px 10px 10px;
   }
   .homepage.homepage1 .how-it-works {
     padding: 100px 10px 100px 10px;
+  }
+  footer .logo {
+  width: 20%;
   }
 }
 @media (max-width: 576px) { 
@@ -2932,6 +2950,9 @@ padding: 100px 10px 10px 10px;
   .homepage1 .call-to-action h2 {
     color: #fff;
     font-size: 63px;}
+  footer .logo {
+  width: 20%;
+  }
 
 }
 @media (max-width: 507px) { 
@@ -2940,7 +2961,10 @@ padding: 100px 10px 10px 10px;
   }
   .homepage.homepage1 .how-it-works {
     padding: 150px 10px 100px 10px; 
-}
+  }
+    footer .logo {
+  width: 20%;
+  }
 }
 @media (max-width: 480px) { 
   
@@ -2978,6 +3002,9 @@ padding: 100px 10px 10px 10px;
   }
   .unboxing {
     padding-bottom: 0px;
+  }
+  footer .logo {
+  width: 80%;
   }
 }
 @media (max-width: 460px) {  
@@ -3026,7 +3053,7 @@ padding: 100px 10px 10px 10px;
     margin-right: 10px;
   }
   footer .widgets li ul li::after {
-    content: "/";
+    content: "";
     position: absolute;
     right: -10px;
     color: #fff;
